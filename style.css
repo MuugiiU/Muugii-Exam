@@ -1,0 +1,157 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main {
+    max-width: 1920px;
+    height: 1080px;
+    background: url("./img/main.jpg");
+
+
+}
+
+.text {
+    position: absolute;
+
+}
+
+.menu {
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+
+}
+
+.menu img {
+    width: 140px;
+    height: 20.83px;
+    margin-left: 126px;
+    margin-top: 30px;
+}
+
+.menu a {
+    margin-left: 584px;
+    text-decoration: none;
+    color: #000000;
+    margin-top: 60px;
+    margin: 40px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.menu a img {
+    margin-top: 30px;
+    width: 48px;
+    height: 48px;
+    margin: 30px;
+}
+
+.header {
+    display: flex;
+    max-width: 1920px;
+}
+
+.ehnii {
+    background: url("./img/image\ 5.jpg");
+    width: 864px;
+    height: 486px;
+}
+
+.daraah {
+    background: url("./img/image\ 6.jpg");
+    width: 864px;
+    height: 486px;
+}
+
+h1 {
+    width: 307px;
+    height: 48px;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    align-items: center;
+    color: #000000;
+}
+
+.mix {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1920px;
+}
+
+.mix-1 {
+    background: url("./img/image\ 7.jpg");
+    width: 480px;
+    height: 480px;
+}
+
+.mix-2 {
+    background: url("./2.jpg");
+    width: 480px;
+    height: 480px;
+}
+
+.mix-3 {
+    background: url("./img/s22ultra.jpg");
+    width: 480px;
+    height: 480px;
+}
+
+.mix-4 {
+    background: url("./img/galaxy22.jpg");
+    width: 480px;
+    height: 480px;
+
+}
+
+.mix-5 {
+    background: url("./img/galaxytab.jpg");
+    width: 480px;
+    height: 480px;
+
+}
+
+.mix-6 {
+    background: url("./img/chihevch.jpg");
+    width: 480px;
+    height: 480px
+}
+
+.mix7 {
+    background: url("./img/tsag.jpg");
+    width: 480px;
+    height: 480px
+}
+
+.mix8 {
+    background: url("./img/last.jpg");
+    width: 480px;
+    height: 480px;
+}
+
+.footer-container {
+    display: flex;
+}
+
+.share {
+
+    font-weight: 400;
+    font-size: 18px;
+    color: #999999;
+}
+.face{
+    background: url("./img/face.jpg");
+}
+.twit
+{
+    background: url("./img/twitter.jpg");
+}
+.ins
+{
+    background: url("./img/ins.jpg");
+}
